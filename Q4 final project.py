@@ -2,9 +2,6 @@
 Lucas Dinh
 May 2023
 
-Lucas Dinh
-May 2023
-
 During my project, I gained valuable experience in using multiple modules of 
 Tkinter, including Label(), Button(), and Frame(). One particular challenge I 
 encountered was implementing the reset button, which required detecting a 
