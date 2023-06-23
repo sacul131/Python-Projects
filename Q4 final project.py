@@ -1,30 +1,3 @@
-"""
-Lucas Dinh
-May 2023
-
-During my project, I gained valuable experience in using multiple modules of 
-Tkinter, including Label(), Button(), and Frame(). One particular challenge I 
-encountered was implementing the reset button, which required detecting a 
-specific label, "loss," and destroying it. To overcome this, I used a variable 
-called "loss" and checked its type using an if-else statement. If the variable 
-was a Label object, it would be destroyed; otherwise, nothing would be done.
-
-Another challenge I faced was properly placing the buttons. I utilized a for 
-loop, but determining the exact button positions proved challenging.
-
-This project was instrumental in my learning of Tkinter and building 
-interactive GUIs. I feel more confident in using these modules and creating 
-engaging user interfaces.
-
-
-
-Another challenge was placing the buttons. To place the buttons i used a for loop,
-the main part that was challenging was trying to figure out where the buttons 
-would end up as it was difficult to determine the output.
-
-
-Overall this project helped me learn Tkinter and howw 
-"""
 from tkinter import *
 from tkinter import ttk
 import random
